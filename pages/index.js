@@ -2,9 +2,9 @@ function Home() {
   return (
     <h1>
       {" "}
-      Gacha de papelao destruindo vidas... e carteiras
+      Let's see where this goes. I hope it becomes something cool.
       <p>
-        <img src="https://media1.tenor.com/m/Nu77sMjXsX0AAAAC/pepe-why-pepe.gif" />
+        <img src="https://media1.tenor.com/m/68l8oNneHuUAAAAC/wheelie-rollin.gif" />
       </p>
     </h1>
   );
